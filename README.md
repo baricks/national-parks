@@ -1,0 +1,1 @@
+Simple bar chart showing the relative sizes of mountain peaks in the United States in feet. Data from here: https://github.com/vincentarelbundock/Rdatasets.

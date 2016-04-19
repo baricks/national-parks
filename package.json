@@ -1,0 +1,14 @@
+{
+  "name": "peaks-2",
+  "version": "1.0.0",
+  "description": "Simple bar chart showing the relative sizes of mountain peaks in the United States in feet. Data from here: https://github.com/vincentarelbundock/Rdatasets.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
